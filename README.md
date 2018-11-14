@@ -4,6 +4,7 @@ File needed:
 
 - sequence.fasta (nucleotide sequence to be processed, in fasta format)
 
+Below is a basic walkthrough the recommended use. I've provided two folders with the files that you'd expect after each step of the pipeline: the sample sequence.fasta is rhodopsin.
 #########################
 
 Basic how-to:
